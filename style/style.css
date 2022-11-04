@@ -412,3 +412,12 @@ header{
     background-color: var(--dark-orange);
     color: white;
 }
+
+.author{
+    color: var(--gray);
+    font-family: var(--Mulish);
+    text-align: center;
+    font-size: 60px;
+    position: relative;
+    bottom: 100px;
+}
